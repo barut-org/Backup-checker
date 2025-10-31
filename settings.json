@@ -1,0 +1,9 @@
+{
+  "output_path": "content/lorem.md",
+  "characters": 1200,
+  "paragraphs": 3,
+  "max_line_length": 80,
+  "include_title": true,
+  "title_characters": 40,
+  "seed": 42
+}
